@@ -1,4 +1,4 @@
-import { Service } from "@rsi/core/dist/rsiPlugin";
+import { Service } from "@rsi/core";
 import { Gardening } from "./gardening";
 
 export const getPlugins = (): Array<new () => Service> => {
