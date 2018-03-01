@@ -1,8 +1,6 @@
-import * as Medialibrary from "./index";
-import { BehaviorSubject } from "rxjs";
-import { Element, ElementResponse, CollectionResponse} from "@rsi/core";
-
 
 describe("Service", () => {
+  it("should eval true", () => {
+    expect(true).not.toBeFalsy();
+  });
 });
-

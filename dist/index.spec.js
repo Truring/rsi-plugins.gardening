@@ -1,5 +1,6 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-describe("Service", function () {
+describe("Service", () => {
+    it("should eval true", () => {
+        expect(true).not.toBeFalsy();
+    });
 });
 //# sourceMappingURL=index.spec.js.map
