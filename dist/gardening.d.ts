@@ -1,5 +1,5 @@
 import { Service } from "@rsi/core";
 declare class Gardening extends Service {
-    constructor();
+    protected constructor();
 }
 export { Gardening };
