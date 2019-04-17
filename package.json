@@ -17,16 +17,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wzr1337/rsi-plugins.gardening"
+    "url": "https://github.com/Truring/rsi-plugins.gardening"
   },
   "author": "Dr. Patrick Bartsch",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wzr1337/rsi-plugins.gardening/issues"
+    "url": "https://github.com/Truring/rsi-plugins.gardening/issues"
   },
-  "homepage": "https://github.com/wzr1337/rsi-plugins.gardening#readme",
+  "homepage": "https://github.com/Truring/rsi-plugins.gardening#readme",
   "dependencies": {
-    "@rsi/core": "https://github.com/wzr1337/rsi.core#0.2.9",
+    "@rsi/core": "https://github.com/Truring/rsi.core",
     "rxjs": "^5.5.6",
     "uuid": "^3.2.1"
   },
